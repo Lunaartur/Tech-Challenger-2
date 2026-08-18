@@ -218,7 +218,12 @@ Principais bibliotecas:
 ## Estrutura do Projeto
 
 ```text
-├── README.md
-├── requirements.txt
-├── WineQT.csv
-└── tech_challenge_fase2.ipynb
+wine-quality-classification/
+│
+├── data/              # Base de dados utilizada
+├── notebooks/         # Notebook/relatório com a análise e modelagem
+├── src/               # Scripts auxiliares (pré-processamento ou modelagem)
+├── results/           # Gráficos e métricas dos modelos
+├── requirements.txt   # Bibliotecas utilizadas
+└── README.md          # Descrição do projeto
+```
