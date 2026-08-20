@@ -227,3 +227,9 @@ wine-quality-classification/
 ├── requirements.txt   # Bibliotecas utilizadas
 └── README.md          # Descrição do projeto
 ```
+
+---
+
+## Vídeo de Apresentação
+
+[Assista aqui](https://www.youtube.com/watch?v=MGaBK7jkdkI)
