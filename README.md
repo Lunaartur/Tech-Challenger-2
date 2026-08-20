@@ -19,6 +19,12 @@ Para o problema de classificação, a variável `quality` foi transformada em du
 
 ---
 
+## Vídeo de Apresentação
+
+[Assista aqui](https://www.youtube.com/watch?v=MGaBK7jkdkI)
+
+---
+
 ## Dataset
 
 O projeto utiliza o dataset **WineQT**, que contém informações sobre características físico-químicas dos vinhos e suas respectivas avaliações de qualidade.
@@ -227,9 +233,3 @@ wine-quality-classification/
 ├── requirements.txt   # Bibliotecas utilizadas
 └── README.md          # Descrição do projeto
 ```
-
----
-
-## Vídeo de Apresentação
-
-[Assista aqui](https://www.youtube.com/watch?v=MGaBK7jkdkI)
